@@ -1,0 +1,2 @@
+Test set accuracy: 91.27%
+Test set ROC AUC: 0.98
